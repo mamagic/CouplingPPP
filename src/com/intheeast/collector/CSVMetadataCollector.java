@@ -6,6 +6,8 @@ import com.intheeast.export.ExportMetadata;
 import com.intheeast.fetch.FetchMetadata;
 
 
+// 추가합니다
+
 public class CSVMetadataCollector implements MetadataCollector {
 	
 	private FetchMetadata fetchMetadata;
