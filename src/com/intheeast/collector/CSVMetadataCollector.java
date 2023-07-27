@@ -5,7 +5,7 @@ import java.util.List;
 import com.intheeast.export.ExportMetadata;
 import com.intheeast.fetch.FetchMetadata;
 
-
+//충돌충돌 
 public class CSVMetadataCollector implements MetadataCollector {
 	
 	private FetchMetadata fetchMetadata;
